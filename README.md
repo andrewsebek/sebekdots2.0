@@ -21,6 +21,7 @@ Video explicando el funcionamiento de Sebekdots 2.0
 Link: https://github.com/andrewsebek/sebekdots2.0-b/blob/main/README.md
 
 Acá encontrarán dos nuevos temas para Waybar y cambios en la configuración de Hyprland y Waybar
+
 Video de demostración: https://youtu.be/n3fHxHuPb3M
 
 # Dependencias 
